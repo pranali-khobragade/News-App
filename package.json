@@ -1,6 +1,6 @@
 {
-  "homepage": "https://pranali-khobragade.github.io/News-App",
-  "name": "news",
+  "homepage": "https://pranali-khobragade.github.io/News-App/",
+  "name": "news-app",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
